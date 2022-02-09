@@ -1,0 +1,10 @@
+:root {
+  --sxDefaultPadding: 12px 24px;
+}
+:root {
+  --dsPrimary: #405089;
+  --dsFontPrimary: #3d3d3d;
+  --dsFontSecondary: #707070;
+  --dsWhite: #fff;
+  --dsBorder: #8adbdb; 
+}
